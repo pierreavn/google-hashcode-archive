@@ -1,0 +1,524 @@
+{
+  "id": "00000000000501c5",
+  "edition": 2019,
+  "round": "final",
+  "start_ms": 1556359200000,
+  "end_ms": 1556377200000,
+  "tests": [],
+  "scoreboard_size": 41,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "Past Glory",
+      "score": 6228032,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "AIM Tech",
+      "score": 6166807,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "Pitypang",
+      "score": 6159588,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Russia",
+        "Russia",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "Warsaw Unsubscribers",
+      "score": 6155186,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "Just want to see a famous Spire of Dublin",
+      "score": 6153110,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Decline to Answer",
+        "Germany",
+        "Decline to Answer"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "from __future__ import solution",
+      "score": 6134316,
+      "country": "Sweden",
+      "competitors_countries": [
+        "Sweden",
+        "United Kingdom",
+        "Sweden",
+        "Sweden"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "simplicissimus",
+      "score": 6037006,
+      "country": "China",
+      "competitors_countries": [
+        "China",
+        "China"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "Please, fix Guinness in Ukraine",
+      "score": 6024806,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Ukraine",
+        "Ukraine",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "TwingTwingTwing Platinum",
+      "score": 5994458,
+      "country": "South Korea",
+      "competitors_countries": [
+        "South Korea",
+        "South Korea",
+        "South Korea"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "Isteric Salmon",
+      "score": 5733389,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "United Kingdom",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "NIN Team",
+      "score": 5671605,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "Jägerbomb",
+      "score": 5621619,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania",
+        "Romania",
+        "Romania",
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "Proof by Submission",
+      "score": 5590629,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "Treenity Colledge",
+      "score": 5577050,
+      "country": "Hungary",
+      "competitors_countries": [
+        "Hungary",
+        "Sweden",
+        "Singapore",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "<(OvO)>",
+      "score": 5531617,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "Warsaw sloths",
+      "score": 5529065,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "Fox ",
+      "score": 5448727,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "pokyunagi",
+      "score": 5394465,
+      "country": "Turkey",
+      "competitors_countries": [
+        "Turkey",
+        "Turkey",
+        "Canada",
+        "Turkey"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "kajgane",
+      "score": 5236244,
+      "country": "Croatia",
+      "competitors_countries": [
+        "Croatia",
+        "Croatia",
+        "Croatia",
+        "Croatia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "Mountain Elephants",
+      "score": 5186315,
+      "country": "South Africa",
+      "competitors_countries": [
+        "South Africa",
+        "South Africa",
+        "South Africa",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "UniVR be || !be",
+      "score": 5089633,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy",
+        "Italy",
+        "Italy",
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "Jinotega",
+      "score": 4994763,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "NCA",
+      "score": 4939507,
+      "country": "Macedonia [FYROM]",
+      "competitors_countries": [
+        "Macedonia [FYROM]",
+        "Macedonia [FYROM]",
+        "Macedonia [FYROM]",
+        "Macedonia [FYROM]"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "Our heaps don't lie",
+      "score": 4757528,
+      "country": "Sweden",
+      "competitors_countries": [
+        "Sweden",
+        "Sweden"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "Gifted Vookies",
+      "score": 4701171,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "exfid",
+      "score": 4545965,
+      "country": "Hong Kong",
+      "competitors_countries": [
+        "Hong Kong",
+        "Hong Kong"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "KNU_SubscribeToPewDiePie",
+      "score": 4516314,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "Steaklovers",
+      "score": 4449209,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom",
+        "Romania",
+        "Romania",
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "SHA6ля",
+      "score": 4409311,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Ukraine",
+        "Ukraine",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "Mad Squared Agarik",
+      "score": 4233959,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "Inconsistent Axioms",
+      "score": 3986942,
+      "country": "South Africa",
+      "competitors_countries": [
+        "South Africa",
+        "South Africa",
+        "South Africa",
+        "South Africa"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "0v3rp0w3r3d",
+      "score": 3823531,
+      "country": "Georgia",
+      "competitors_countries": [
+        "Georgia",
+        "Georgia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "Meme ",
+      "score": 3621032,
+      "country": "Macedonia [FYROM]",
+      "competitors_countries": [
+        "Macedonia [FYROM]",
+        "Macedonia [FYROM]",
+        "Macedonia [FYROM]",
+        "Macedonia [FYROM]"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "31337 Programmers",
+      "score": 3374055,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "The Confused Penguins",
+      "score": 3060099,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "France",
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "Najs",
+      "score": 3027636,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "Sweden",
+        "Sweden",
+        "Sweden"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "Fatture in Cloud",
+      "score": 2935054,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy",
+        "Italy",
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "Unibg Seclab",
+      "score": 2269560,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy",
+        "Italy",
+        "France",
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 39,
+      "name": "Saving Private Static Ryan",
+      "score": 1763087,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "France",
+        "France",
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 40,
+      "name": "Wumble Meatloaf and Ubaktine French Bread",
+      "score": 1239218,
+      "country": "Belgium",
+      "competitors_countries": [
+        "Belgium",
+        "Belgium",
+        "Belgium"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 41,
+      "name": "nock",
+      "score": 264939,
+      "country": "Turkey",
+      "competitors_countries": [
+        "Turkey",
+        "Turkey",
+        "Turkey",
+        "Turkey"
+      ],
+      "tests_scores": []
+    }
+  ]
+}

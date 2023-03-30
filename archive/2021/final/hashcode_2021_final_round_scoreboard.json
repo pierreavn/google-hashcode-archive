@@ -1,0 +1,517 @@
+{
+  "id": "0000000000436378",
+  "edition": 2021,
+  "round": "final",
+  "start_ms": 1619281800000,
+  "end_ms": 1619296200000,
+  "tests": [
+    {
+      "name": "A – Example"
+    },
+    {
+      "name": "B – Breadth of Choice"
+    },
+    {
+      "name": "C – Constrained Optimisation"
+    },
+    {
+      "name": "D – Distinction"
+    },
+    {
+      "name": "E – Expectation Maximisation"
+    },
+    {
+      "name": "F – Five Thousand"
+    }
+  ],
+  "scoreboard_size": 38,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "No jokes about underpants",
+      "score": 370364455,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Decline to Answer",
+        "Germany",
+        "Decline to Answer"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "Past Glory",
+      "score": 366665347,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Russia",
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "chachachejiang",
+      "score": 327557291,
+      "country": "China",
+      "competitors_countries": [
+        "China",
+        "China",
+        "China",
+        "China"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "✷code",
+      "score": 325098531,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "kobor ",
+      "score": 323898443,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "Imanisu",
+      "score": 316107073,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "Hashcode fans",
+      "score": 310307224,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "Bryansk North",
+      "score": 309981188,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "Marathoners",
+      "score": 305760456,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Romania",
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "Rethinkers",
+      "score": 300484662,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "YesNameTeam",
+      "score": 297976608,
+      "country": "Latvia",
+      "competitors_countries": [
+        "Latvia",
+        "Latvia",
+        "Latvia",
+        "Latvia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "GMQZ",
+      "score": 278592586,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "United States",
+        "Canada",
+        "United States"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "[URGENT]",
+      "score": 276201644,
+      "country": "South Korea",
+      "competitors_countries": [
+        "South Korea",
+        "South Korea",
+        "South Korea",
+        "South Korea"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "DAMG Team",
+      "score": 275807407,
+      "country": "Lithuania",
+      "competitors_countries": [
+        "Lithuania",
+        "Lithuania",
+        "Lithuania",
+        "Lithuania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "MIPT Cactus",
+      "score": 275716716,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "Jinotega",
+      "score": 275300586,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "Black Cow v3.0",
+      "score": 275293399,
+      "country": "South Korea",
+      "competitors_countries": [
+        "South Korea",
+        "South Korea",
+        "South Korea",
+        "South Korea"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "Überteam",
+      "score": 275270177,
+      "country": "Slovakia",
+      "competitors_countries": [
+        "Slovakia",
+        "Slovakia",
+        "Slovakia",
+        "Czech Republic"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "cat /dev/random | grep \"to be or not to be\"",
+      "score": 274253375,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Netherlands",
+        "Netherlands",
+        "Netherlands"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "Warsaw Huskies",
+      "score": 273121430,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "<(OvO)>",
+      "score": 272280909,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "Reported benefit",
+      "score": 272011727,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Netherlands",
+        "Netherlands",
+        "Netherlands"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "Peppa pig fan club",
+      "score": 271931513,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "KUPC",
+      "score": 271433909,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "Les victimes",
+      "score": 270973816,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "France",
+        "France",
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "Drop The Bayes",
+      "score": 269945261,
+      "country": "India",
+      "competitors_countries": [
+        "India",
+        "India",
+        "United States",
+        "India"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "maitech",
+      "score": 269873270,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "ENS 1",
+      "score": 269592987,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "France",
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "Steins; Gate",
+      "score": 269305887,
+      "country": "China",
+      "competitors_countries": [
+        "China",
+        "China",
+        "China"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "✧ﾟ･:*ヾ(◕∀◕ヾ) aqua dance party (ﾉ´ヮ`)ﾉ*: ･ﾟ",
+      "score": 269286634,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "United Kingdom",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "KOTYTA",
+      "score": 269163294,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "Shower Pomelo",
+      "score": 267619421,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "YMTeam",
+      "score": 255593628,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "31337 Programmers",
+      "score": 254736673,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "RAF Penguins",
+      "score": 226369765,
+      "country": "Serbia",
+      "competitors_countries": [
+        "Serbia",
+        "Serbia",
+        "Serbia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "BlueShark",
+      "score": 38409263,
+      "country": "India",
+      "competitors_countries": [
+        "India",
+        "India",
+        "India",
+        "India"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "$__MONKE__$",
+      "score": 24835505,
+      "country": "India",
+      "competitors_countries": [
+        "India",
+        "India",
+        "India",
+        "India"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "Rakeezh",
+      "score": 220,
+      "country": "Oman",
+      "competitors_countries": [
+        "Oman",
+        "Oman",
+        "Oman",
+        "Oman"
+      ],
+      "tests_scores": []
+    }
+  ]
+}

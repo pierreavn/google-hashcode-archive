@@ -1,10 +1,10 @@
 ![google hashcode logo](logo.png)
 
-# Google Hashcode Archive
+# Google Hashcode Archive & Scoreboards
 
 Hash Code is a coding competition to solve problems modeled off real Google engineering challenges.
 
-On this repository, you can try and solve past Hash Code problems.
+On this repository, you can try to solve past Hash Code problems and retrieve rounds scoreboards.
 
 ## Archives
 

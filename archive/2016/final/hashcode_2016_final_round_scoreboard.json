@@ -1,0 +1,527 @@
+{
+  "id": "0000000000c61777",
+  "edition": 2016,
+  "round": "final",
+  "start_ms": 1461751200000,
+  "end_ms": 1461769200000,
+  "tests": [],
+  "scoreboard_size": 51,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "YMTeam",
+      "score": 1017218,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "Ababahalamaha",
+      "score": 991562,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "Die Bergbokbende",
+      "score": 964632,
+      "country": "South Africa",
+      "competitors_countries": [
+        "South Africa"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "Capgenious",
+      "score": 960672,
+      "country": "Belgium",
+      "competitors_countries": [
+        "Belgium"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "No reez to complain",
+      "score": 959123,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "Psyho+Marek",
+      "score": 956645,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "Warsaw Doges",
+      "score": 937694,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "ETH MADA",
+      "score": 934957,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "LNU Penguins",
+      "score": 928315,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "Dradada",
+      "score": 922408,
+      "country": "Georgia",
+      "competitors_countries": [
+        "Georgia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "TheFollowersOfSorin",
+      "score": 860413,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "Frozen Heart",
+      "score": 858500,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "Hashugamani",
+      "score": 791317,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "void* ",
+      "score": 673493,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "CUT1",
+      "score": 656542,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania",
+        "Serbia",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "letIT MOnocopter",
+      "score": 634587,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "ENS Ulm 1",
+      "score": 544320,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "Isteric Salmon",
+      "score": 501467,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "colorcode",
+      "score": 403755,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "Team LonelyDogs",
+      "score": 400102,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "Humdrum Lobsters",
+      "score": 377435,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "Moscow IPT Jinotega",
+      "score": 374313,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "steakHashE",
+      "score": 360797,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "RPK ",
+      "score": 359393,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "Sparrows ",
+      "score": 338236,
+      "country": "Hungary",
+      "competitors_countries": [
+        "Hungary"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "UPFAI",
+      "score": 308787,
+      "country": "Spain",
+      "competitors_countries": [
+        "Spain"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "Omogen Heap",
+      "score": 300578,
+      "country": "Sweden",
+      "competitors_countries": [
+        "Sweden"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "The Coding Dead",
+      "score": 245533,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "InternationalCrew",
+      "score": 230937,
+      "country": "Slovakia",
+      "competitors_countries": [
+        "Slovakia",
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "getRektScrubs",
+      "score": 223582,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "Havana Blues",
+      "score": 219648,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "Czterech pancernych bez psa.",
+      "score": 210950,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "UnintelligibleTeamName",
+      "score": 186820,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "Ohh, you touch my tralala",
+      "score": 183073,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "EN touriSme",
+      "score": 171450,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "; DROP TABLE teams",
+      "score": 140658,
+      "country": "Slovakia",
+      "competitors_countries": [
+        "Slovakia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "poly ",
+      "score": 139392,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "Rashko",
+      "score": 121954,
+      "country": "Bulgaria",
+      "competitors_countries": [
+        "Bulgaria"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 39,
+      "name": "Gentlecat",
+      "score": 112743,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 40,
+      "name": "Lens d' U l m",
+      "score": 99867,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 41,
+      "name": "We are trying to have a longer teamname than other teams here just because we would like to know the maximum size of a teamname",
+      "score": 99608,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 42,
+      "name": "Singles In Your Area",
+      "score": 89133,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 43,
+      "name": "H³",
+      "score": 49108,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 44,
+      "name": "Vulkan ",
+      "score": 48000,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 45,
+      "name": "Red Alert",
+      "score": 47808,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 46,
+      "name": "2SZ",
+      "score": 11792,
+      "country": "Sweden",
+      "competitors_countries": [
+        "Sweden"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 47,
+      "name": "BounLabs",
+      "score": 96,
+      "country": "Turkey",
+      "competitors_countries": [
+        "Turkey"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 48,
+      "name": "Bing ",
+      "score": 0,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 48,
+      "name": "Saar-Land",
+      "score": 0,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 48,
+      "name": "LosCaparos",
+      "score": 0,
+      "country": "Israel",
+      "competitors_countries": [
+        "Israel"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 48,
+      "name": "Untitled1*",
+      "score": 0,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    }
+  ]
+}

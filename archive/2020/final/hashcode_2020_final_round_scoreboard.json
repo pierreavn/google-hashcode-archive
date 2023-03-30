@@ -1,0 +1,579 @@
+{
+  "id": "000000000019ff4c",
+  "edition": 2020,
+  "round": "final",
+  "start_ms": 1587832200000,
+  "end_ms": 1587846600000,
+  "tests": [],
+  "scoreboard_size": 45,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "Past Glory",
+      "score": 6696284,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Russia",
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "simplicissimus",
+      "score": 6478445,
+      "country": "China",
+      "competitors_countries": [
+        "China",
+        "China",
+        "China",
+        "China"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "✷code",
+      "score": 6238462,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "Rethinkers",
+      "score": 6189651,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "Pitypang",
+      "score": 5577725,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Russia",
+        "Russia",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "❤ Mercy Flour ❤",
+      "score": 4802882,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "United States",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "Team Salmon",
+      "score": 4738259,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "Metaheuristics in vacuum",
+      "score": 4438040,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "Marathoners",
+      "score": 4435719,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Romania",
+        "Brazil"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "Proof by Submission",
+      "score": 4327978,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "ComeForward",
+      "score": 4115287,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "🦐🦐🦐🦐",
+      "score": 4098840,
+      "country": "Austria",
+      "competitors_countries": [
+        "Austria",
+        "Russia",
+        "Norway",
+        "Norway"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "WADA won't ban us for Guinness, right?",
+      "score": 4021967,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Decline to Answer",
+        "Germany",
+        "Decline to Answer"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "Errecto",
+      "score": 3738876,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "All In",
+      "score": 3661405,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland",
+        "Georgia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "Cad e sin don te sin",
+      "score": 3562346,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "Überteam",
+      "score": 3539114,
+      "country": "Slovakia",
+      "competitors_countries": [
+        "Slovakia",
+        "Slovakia",
+        "Slovakia",
+        "Czech Republic"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "KhNURE_NRG",
+      "score": 3486582,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Ukraine",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "Something far more sinister",
+      "score": 3470082,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "Hashcode fans",
+      "score": 3277378,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "DAMG Team",
+      "score": 3241575,
+      "country": "Lithuania",
+      "competitors_countries": [
+        "Lithuania",
+        "Lithuania",
+        "Lithuania",
+        "Lithuania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "cult_code",
+      "score": 3090639,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "United Kingdom",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "Warsaw Permas",
+      "score": 2751378,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "YMTeam",
+      "score": 2701721,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "Rust Team",
+      "score": 2676424,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania",
+        "Romania",
+        "Romania",
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "#cod",
+      "score": 2481555,
+      "country": "Lithuania",
+      "competitors_countries": [
+        "Lithuania",
+        "Lithuania",
+        "Lithuania",
+        "Lithuania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "tratata ",
+      "score": 2314329,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "AIM Tech",
+      "score": 1997616,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "The Immaculate Vultures",
+      "score": 1994962,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "yargic",
+      "score": 1754611,
+      "country": "Turkey",
+      "competitors_countries": [
+        "Turkey",
+        "Turkey",
+        "Canada",
+        "Turkey"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "TÜ Randomized Algorithms",
+      "score": 1676594,
+      "country": "Estonia",
+      "competitors_countries": [
+        "Estonia",
+        "Estonia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "Eel",
+      "score": 1635054,
+      "country": "Bulgaria",
+      "competitors_countries": [
+        "Bulgaria",
+        "Bulgaria",
+        "Bulgaria"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "DublinDeDoubling",
+      "score": 1533463,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "YaTaxiSpb",
+      "score": 1526414,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "Morituri::Reborn",
+      "score": 1512038,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom",
+        "Ukraine",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "78-9",
+      "score": 1422287,
+      "country": "South Korea",
+      "competitors_countries": [
+        "South Korea",
+        "South Korea",
+        "South Korea",
+        "South Korea"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "Džrugars",
+      "score": 1225136,
+      "country": "Serbia",
+      "competitors_countries": [
+        "Serbia",
+        "Serbia",
+        "Serbia",
+        "Serbia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "tap",
+      "score": 1168330,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland",
+        "Switzerland",
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 39,
+      "name": "OlyaCalmDown",
+      "score": 1148005,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine",
+        "Ukraine",
+        "Ukraine",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 40,
+      "name": "Grupa Galois",
+      "score": 1137689,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 41,
+      "name": "Hope we can change this later",
+      "score": 1090928,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "Decline to Answer",
+        "United States",
+        "United States"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 42,
+      "name": "Vision of Doom",
+      "score": 1084746,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 43,
+      "name": "Twin Seafood Appreciators",
+      "score": 633431,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "China"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 44,
+      "name": "AtCoDeer",
+      "score": 578331,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 45,
+      "name": "maybe tomorrow?",
+      "score": 422382,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": []
+    }
+  ]
+}

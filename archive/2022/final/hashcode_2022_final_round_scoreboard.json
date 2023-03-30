@@ -1,0 +1,802 @@
+{
+  "id": "00000000008cacc6",
+  "edition": 2022,
+  "round": "final",
+  "start_ms": 1651336200000,
+  "end_ms": 1651350600000,
+  "tests": [
+    {
+      "name": "A – An example"
+    },
+    {
+      "name": "B – Better hurry"
+    },
+    {
+      "name": "C – Carousel"
+    },
+    {
+      "name": "D – Decorated houses"
+    },
+    {
+      "name": "E – Excellent weather"
+    },
+    {
+      "name": "F – Festive flyover"
+    }
+  ],
+  "scoreboard_size": 39,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "✷code",
+      "score": 5396369,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": [
+        16,
+        270570,
+        1661442,
+        914999,
+        1083849,
+        1465493
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "ꙮ",
+      "score": 4970702,
+      "country": "Bulgaria",
+      "competitors_countries": [
+        "Bulgaria",
+        "Bulgaria",
+        "Bulgaria",
+        "Bulgaria"
+      ],
+      "tests_scores": [
+        8,
+        88922,
+        1794307,
+        517349,
+        1193009,
+        1377107
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Imunisu",
+      "score": 4063625,
+      "country": "Japan",
+      "competitors_countries": [
+        "Japan",
+        "Japan",
+        "Japan",
+        "Japan"
+      ],
+      "tests_scores": [
+        16,
+        147525,
+        1397075,
+        511735,
+        754002,
+        1253272
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Past Glory",
+      "score": 4055051,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Russia",
+        "Russia",
+        "Ukraine"
+      ],
+      "tests_scores": [
+        16,
+        242883,
+        1414302,
+        293453,
+        765791,
+        1338606
+      ]
+    },
+    {
+      "rank": 5,
+      "name": " Rethinkers",
+      "score": 3922741,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": [
+        16,
+        94429,
+        1552900,
+        565374,
+        600205,
+        1109817
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "QZ2",
+      "score": 3524407,
+      "country": "United States",
+      "competitors_countries": [
+        "United States",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "tests_scores": [
+        16,
+        129026,
+        866216,
+        545653,
+        616072,
+        1367424
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Make love, not war",
+      "score": 3484613,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        10,
+        154410,
+        986486,
+        613070,
+        505063,
+        1225574
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "Omogen Heap",
+      "score": 3411484,
+      "country": "Sweden",
+      "competitors_countries": [
+        "Sweden",
+        "Sweden",
+        "Sweden",
+        "Sweden"
+      ],
+      "tests_scores": [
+        0,
+        0,
+        1592313,
+        0,
+        640025,
+        1179146
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "1222",
+      "score": 3280992,
+      "country": "South Korea",
+      "competitors_countries": [
+        "South Korea",
+        "South Korea",
+        "South Korea",
+        "South Korea"
+      ],
+      "tests_scores": [
+        18,
+        39094,
+        821934,
+        721133,
+        654718,
+        1044095
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "Drop The Bayes",
+      "score": 2799180,
+      "country": "India",
+      "competitors_countries": [
+        "India",
+        "India",
+        "United States",
+        "United States"
+      ],
+      "tests_scores": [
+        8,
+        117157,
+        923647,
+        52234,
+        801660,
+        904474
+      ]
+    },
+    {
+      "rank": 11,
+      "name": "QR-Coders",
+      "score": 2708265,
+      "country": "Decline to Answer",
+      "competitors_countries": [
+        "Decline to Answer",
+        "Decline to Answer",
+        "Germany",
+        "Netherlands"
+      ],
+      "tests_scores": [
+        0,
+        115129,
+        595190,
+        146797,
+        312206,
+        1538943
+      ]
+    },
+    {
+      "rank": 12,
+      "name": "Sorry for what?",
+      "score": 2440161,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        0,
+        100863,
+        756638,
+        618640,
+        137559,
+        826461
+      ]
+    },
+    {
+      "rank": 13,
+      "name": "Never Give Up",
+      "score": 2394528,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        16,
+        116884,
+        709625,
+        586885,
+        446609,
+        534509
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "youtu.be/HmoeUTXINxs",
+      "score": 2355268,
+      "country": "South Korea",
+      "competitors_countries": [
+        "South Korea",
+        "South Korea",
+        "South Korea",
+        "South Korea"
+      ],
+      "tests_scores": [
+        16,
+        94429,
+        552367,
+        560573,
+        334489,
+        813394
+      ]
+    },
+    {
+      "rank": 15,
+      "name": "Jinotega",
+      "score": 2339447,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        16,
+        86875,
+        780879,
+        568146,
+        298034,
+        605497
+      ]
+    },
+    {
+      "rank": 16,
+      "name": "MALCHISHKI SU 25",
+      "score": 2242857,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        0,
+        66166,
+        545540,
+        532147,
+        283040,
+        815964
+      ]
+    },
+    {
+      "rank": 17,
+      "name": "Maize",
+      "score": 1948641,
+      "country": "Taiwan",
+      "competitors_countries": [
+        "Taiwan",
+        "United States"
+      ],
+      "tests_scores": [
+        16,
+        0,
+        0,
+        278946,
+        0,
+        1669679
+      ]
+    },
+    {
+      "rank": 18,
+      "name": "Quiche LORIAinne",
+      "score": 1913445,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "France",
+        "France",
+        "France"
+      ],
+      "tests_scores": [
+        16,
+        7329,
+        830751,
+        616053,
+        352789,
+        106507
+      ]
+    },
+    {
+      "rank": 19,
+      "name": "💛💙 Hashcode Fans ",
+      "score": 1905554,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        5,
+        87884,
+        785979,
+        388022,
+        232444,
+        411220
+      ]
+    },
+    {
+      "rank": 20,
+      "name": "Marathoners",
+      "score": 1879614,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "Georgia",
+        "Poland",
+        "Romania"
+      ],
+      "tests_scores": [
+        0,
+        92157,
+        0,
+        0,
+        0,
+        1787457
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "LifetimeException 0x0000LIFE",
+      "score": 1597024,
+      "country": "Turkey",
+      "competitors_countries": [
+        "Turkey",
+        "Turkey"
+      ],
+      "tests_scores": [
+        5,
+        0,
+        375381,
+        0,
+        396317,
+        825321
+      ]
+    },
+    {
+      "rank": 22,
+      "name": "DAMG Team",
+      "score": 1555501,
+      "country": "Lithuania",
+      "competitors_countries": [
+        "Lithuania",
+        "Lithuania",
+        "Lithuania",
+        "Lithuania"
+      ],
+      "tests_scores": [
+        16,
+        0,
+        301540,
+        472257,
+        325337,
+        456351
+      ]
+    },
+    {
+      "rank": 23,
+      "name": "ULj",
+      "score": 1472188,
+      "country": "Slovenia",
+      "competitors_countries": [
+        "Slovenia",
+        "Slovenia",
+        "Slovenia",
+        "Slovenia"
+      ],
+      "tests_scores": [
+        5,
+        29592,
+        47309,
+        579588,
+        18427,
+        797267
+      ]
+    },
+    {
+      "rank": 24,
+      "name": "Often Hides",
+      "score": 1392220,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Poland",
+        "Poland",
+        "Poland"
+      ],
+      "tests_scores": [
+        16,
+        29157,
+        111405,
+        367002,
+        22567,
+        862073
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "Überteam",
+      "score": 1383487,
+      "country": "Czech Republic",
+      "competitors_countries": [
+        "Czech Republic",
+        "Slovakia",
+        "Slovakia",
+        "Slovakia"
+      ],
+      "tests_scores": [
+        0,
+        0,
+        111061,
+        0,
+        1582,
+        1270844
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "Variante Big Chungus",
+      "score": 1358120,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy",
+        "Italy",
+        "Italy",
+        "Italy"
+      ],
+      "tests_scores": [
+        12,
+        65041,
+        396924,
+        0,
+        431393,
+        464750
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "team usa",
+      "score": 1302657,
+      "country": "Canada",
+      "competitors_countries": [
+        "Canada",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "tests_scores": [
+        0,
+        37436,
+        0,
+        634215,
+        264667,
+        366339
+      ]
+    },
+    {
+      "rank": 28,
+      "name": "tratata®",
+      "score": 1132903,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": [
+        16,
+        100084,
+        257080,
+        62396,
+        205297,
+        508030
+      ]
+    },
+    {
+      "rank": 29,
+      "name": "Beyond Ballmer's Peak + Fr...",
+      "score": 1116087,
+      "country": "Denmark",
+      "competitors_countries": [
+        "Denmark",
+        "Denmark",
+        "Denmark",
+        "Denmark"
+      ],
+      "tests_scores": [
+        8,
+        0,
+        271664,
+        101673,
+        301508,
+        441234
+      ]
+    },
+    {
+      "rank": 30,
+      "name": "Treenity",
+      "score": 1114749,
+      "country": "Hungary",
+      "competitors_countries": [
+        "Hungary",
+        "Singapore",
+        "Sweden",
+        "United Kingdom"
+      ],
+      "tests_scores": [
+        0,
+        0,
+        154166,
+        320738,
+        169759,
+        470086
+      ]
+    },
+    {
+      "rank": 31,
+      "name": "ANIP",
+      "score": 1097495,
+      "country": "Hungary",
+      "competitors_countries": [
+        "Hungary",
+        "Hungary",
+        "Hungary"
+      ],
+      "tests_scores": [
+        16,
+        0,
+        287460,
+        0,
+        375295,
+        434724
+      ]
+    },
+    {
+      "rank": 32,
+      "name": "Koresha",
+      "score": 1085228,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Russia",
+        "Russia",
+        "Russia"
+      ],
+      "tests_scores": [
+        0,
+        63287,
+        374489,
+        497414,
+        97007,
+        53031
+      ]
+    },
+    {
+      "rank": 33,
+      "name": "Proof by Submission 🇺🇦",
+      "score": 1026415,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": [
+        16,
+        22968,
+        87450,
+        20216,
+        304938,
+        590827
+      ]
+    },
+    {
+      "rank": 34,
+      "name": "YMTeam",
+      "score": 413970,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Belarus",
+        "Belarus",
+        "Belarus"
+      ],
+      "tests_scores": [
+        0,
+        0,
+        1380,
+        0,
+        10874,
+        401716
+      ]
+    },
+    {
+      "rank": 35,
+      "name": "cybercats",
+      "score": 390699,
+      "country": "Canada",
+      "competitors_countries": [
+        "Canada",
+        "Russia",
+        "United Kingdom",
+        "United States"
+      ],
+      "tests_scores": [
+        10,
+        0,
+        182705,
+        15974,
+        50713,
+        141297
+      ]
+    },
+    {
+      "rank": 36,
+      "name": "Pure MFF",
+      "score": 301584,
+      "country": "Czech Republic",
+      "competitors_countries": [
+        "Czech Republic",
+        "Czech Republic",
+        "Czech Republic",
+        "Czech Republic"
+      ],
+      "tests_scores": [
+        18,
+        35590,
+        18598,
+        638,
+        85199,
+        161541
+      ]
+    },
+    {
+      "rank": 37,
+      "name": "Heap heap, array! ",
+      "score": 241320,
+      "country": "Belgium",
+      "competitors_countries": [
+        "Belgium",
+        "Belgium",
+        "Belgium"
+      ],
+      "tests_scores": [
+        16,
+        0,
+        15653,
+        138415,
+        18719,
+        68517
+      ]
+    },
+    {
+      "rank": 38,
+      "name": "Ballmer peak",
+      "score": 88152,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "tests_scores": [
+        6,
+        0,
+        172,
+        0,
+        21299,
+        66675
+      ]
+    },
+    {
+      "rank": 39,
+      "name": "FII_AllStars",
+      "score": 43256,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania",
+        "Romania",
+        "Romania",
+        "Romania"
+      ],
+      "tests_scores": [
+        16,
+        0,
+        0,
+        0,
+        601,
+        42639
+      ]
+    }
+  ]
+}

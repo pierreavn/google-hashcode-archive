@@ -1,0 +1,527 @@
+{
+  "id": "0000000000c618a9",
+  "edition": 2017,
+  "round": "final",
+  "start_ms": 1493287200000,
+  "end_ms": 1493305200000,
+  "tests": [],
+  "scoreboard_size": 50,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "AIM Tech",
+      "score": 548065447,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "Past Glory",
+      "score": 547343279,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "All In",
+      "score": 546339443,
+      "country": "Georgia",
+      "competitors_countries": [
+        "Georgia",
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "Dasha hochet v Paris",
+      "score": 546299075,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "МЕТАШСА",
+      "score": 546131773,
+      "country": "Serbia",
+      "competitors_countries": [
+        "Serbia",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "Scorpions ",
+      "score": 546053847,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "Ababahalamaha",
+      "score": 545503345,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "Jinotega",
+      "score": 545455587,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "#Octothorp Code",
+      "score": 544967382,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "; DROP TABLE teams;--",
+      "score": 544630713,
+      "country": "Slovakia",
+      "competitors_countries": [
+        "Slovakia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "<(OvO)>",
+      "score": 544564429,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "Blue Vision Labs",
+      "score": 544390282,
+      "country": "Croatia",
+      "competitors_countries": [
+        "Croatia",
+        "Czech Republic",
+        "Italy",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "TUMbleweed",
+      "score": 544317395,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "YMTeam",
+      "score": 543715091,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "Isteric Salmon",
+      "score": 543526796,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "Depression Cherry",
+      "score": 543488572,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "Game of Nolife",
+      "score": 543263437,
+      "country": "Finland",
+      "competitors_countries": [
+        "Finland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "Collect monatki",
+      "score": 543173606,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "Shaky ",
+      "score": 543164144,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "AIM Tech Funny Behavior",
+      "score": 543054761,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "SickTear",
+      "score": 542966353,
+      "country": "Armenia",
+      "competitors_countries": [
+        "Armenia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "Warsaw Tigers and Tigress",
+      "score": 542961377,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "Bathers",
+      "score": 542801416,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "Broders",
+      "score": 542794355,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "NIN Team",
+      "score": 542773373,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "Warriors of ETH",
+      "score": 542633599,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "Rashko",
+      "score": 542456141,
+      "country": "Bulgaria",
+      "competitors_countries": [
+        "Bulgaria"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "ENS5minutes",
+      "score": 542361722,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "Qualified Quad",
+      "score": 542332596,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "abacabadabacaba",
+      "score": 542146619,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "MIPT The Skblt",
+      "score": 541986360,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "Morituri",
+      "score": 541900910,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "LessCaparos",
+      "score": 541493638,
+      "country": "Israel",
+      "competitors_countries": [
+        "Israel"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "Bibeleskaes",
+      "score": 541394954,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "unusual.og",
+      "score": 541150961,
+      "country": "Latvia",
+      "competitors_countries": [
+        "Latvia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "UCL WAC-WAC",
+      "score": 540462434,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland",
+        "Romania",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "The Bit-les",
+      "score": 540284000,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "tratata ",
+      "score": 539675296,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 39,
+      "name": "Stealth Phoenix",
+      "score": 539145773,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 40,
+      "name": "Messi ",
+      "score": 539113341,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 41,
+      "name": "Bella Domanda",
+      "score": 538397370,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 42,
+      "name": "Ancelistas",
+      "score": 537285867,
+      "country": "Portugal",
+      "competitors_countries": [
+        "Portugal"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 43,
+      "name": "FaëriX",
+      "score": 536519847,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 44,
+      "name": "qoloe",
+      "score": 536375082,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 45,
+      "name": "Bouncy Crocodile Rainstorm",
+      "score": 536225918,
+      "country": "Greece",
+      "competitors_countries": [
+        "Greece",
+        "Latvia",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 46,
+      "name": "AG Global Opt",
+      "score": 534568207,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 47,
+      "name": "void* ",
+      "score": 524898652,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 48,
+      "name": "2young2simple",
+      "score": 342806791,
+      "country": "Saudi Arabia",
+      "competitors_countries": [
+        "Saudi Arabia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 49,
+      "name": "BozziBoys",
+      "score": 61902537,
+      "country": "Italy",
+      "competitors_countries": [
+        "Italy"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 50,
+      "name": "InterPython",
+      "score": 51764263,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus",
+        "Morocco",
+        "Netherlands",
+        "Poland"
+      ],
+      "tests_scores": []
+    }
+  ]
+}

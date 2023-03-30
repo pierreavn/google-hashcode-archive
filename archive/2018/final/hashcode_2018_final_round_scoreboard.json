@@ -1,0 +1,418 @@
+{
+  "id": "0000000000c61224",
+  "edition": 2018,
+  "round": "final",
+  "start_ms": 1524823200000,
+  "end_ms": 1524841200000,
+  "tests": [],
+  "scoreboard_size": 40,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "( ._.) ( ._. ) (._.) (._. )",
+      "score": 38102788,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "Pitypang",
+      "score": 37892310,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "NIN Team",
+      "score": 37769706,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "AIM Tech",
+      "score": 37662860,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "Programming Athlete From Russia",
+      "score": 37396084,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "Warsaw Rhubarbs",
+      "score": 36642417,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "MIPT Amethyst's Content",
+      "score": 36226786,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "Blean",
+      "score": 35927384,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "NCA",
+      "score": 35812865,
+      "country": "Macedonia [FYROM]",
+      "competitors_countries": [
+        "Macedonia [FYROM]"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "Warsallonian",
+      "score": 33926615,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "Jinotega",
+      "score": 32859078,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "Came for Guinness, Stayed for HashCode",
+      "score": 31016343,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "Playrix",
+      "score": 30817826,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "Pogromcy myszek",
+      "score": 30029183,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "︻芫══---- CHICKEN DINNER",
+      "score": 29116559,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "No Future",
+      "score": 28800232,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "Mushrooms ",
+      "score": 27022926,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "Isteric Salmon",
+      "score": 26919605,
+      "country": "Belarus",
+      "competitors_countries": [
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "OlyaWakeUp",
+      "score": 26031255,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "TheGame ",
+      "score": 25830559,
+      "country": "Portugal",
+      "competitors_countries": [
+        "Portugal"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "YoloLoop",
+      "score": 24985883,
+      "country": "Switzerland",
+      "competitors_countries": [
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "Yabbyy",
+      "score": 23871263,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "Tractor_Specialists",
+      "score": 23517383,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "da-wae",
+      "score": 22178111,
+      "country": "United Kingdom",
+      "competitors_countries": [
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "AIMTech3Yandex1",
+      "score": 21847965,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "Part Time Humans",
+      "score": 21474047,
+      "country": "Ukraine",
+      "competitors_countries": [
+        "Ukraine"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "kobasice",
+      "score": 20757632,
+      "country": "Croatia",
+      "competitors_countries": [
+        "Croatia",
+        "Switzerland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "Axis Violation",
+      "score": 20523432,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "Jagiellonian nainolleigaJ",
+      "score": 20388301,
+      "country": "Poland",
+      "competitors_countries": [
+        "Poland"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "Heisenbugs Certainty Principle",
+      "score": 20377023,
+      "country": "Sweden",
+      "competitors_countries": [
+        "Sweden"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "SickTear",
+      "score": 20249634,
+      "country": "Armenia",
+      "competitors_countries": [
+        "Armenia"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "Demi-Byte",
+      "score": 19832508,
+      "country": "France",
+      "competitors_countries": [
+        "France",
+        "United Kingdom"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "LGBS@WPS",
+      "score": 18796402,
+      "country": "Germany",
+      "competitors_countries": [
+        "Germany"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "abacabadabacaba",
+      "score": 13890801,
+      "country": "Russia",
+      "competitors_countries": [
+        "Russia",
+        "Belarus"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "Doe maar lekker!",
+      "score": 13239129,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "ZGlja2J1dHQK",
+      "score": 12188600,
+      "country": "Belgium",
+      "competitors_countries": [
+        "Belgium"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "Gilthans-Fans",
+      "score": 10483983,
+      "country": "Israel",
+      "competitors_countries": [
+        "Israel"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "Have you tried turning it off and on again?",
+      "score": 6684219,
+      "country": "Netherlands",
+      "competitors_countries": [
+        "Netherlands"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 39,
+      "name": "Les vieux qui mangent",
+      "score": 6378078,
+      "country": "France",
+      "competitors_countries": [
+        "France"
+      ],
+      "tests_scores": []
+    },
+    {
+      "rank": 40,
+      "name": "byteIT",
+      "score": 1507766,
+      "country": "Romania",
+      "competitors_countries": [
+        "Romania"
+      ],
+      "tests_scores": []
+    }
+  ]
+}

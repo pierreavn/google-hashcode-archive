@@ -1,0 +1,443 @@
+{
+  "id": "0000000000c617e8",
+  "edition": 2014,
+  "round": "final",
+  "start_ms": 1398592800000,
+  "end_ms": 1398610800000,
+  "tests": [],
+  "scoreboard_size": 54,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "name": "ens{,imag}",
+      "score": 1923588,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 2,
+      "name": "Thomas ",
+      "score": 1916551,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 3,
+      "name": "Normalisation",
+      "score": 1911614,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 4,
+      "name": "<$><*>",
+      "score": 1905157,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 5,
+      "name": "4chan",
+      "score": 1904044,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 6,
+      "name": "HashLoft",
+      "score": 1881442,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 7,
+      "name": "ENS Ulm 1",
+      "score": 1881377,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 8,
+      "name": "Public Static Team",
+      "score": 1872001,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 9,
+      "name": "Pascal &amp; Stéphane",
+      "score": 1833310,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 10,
+      "name": "cat /dev/urandom | gcc",
+      "score": 1799418,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 11,
+      "name": "ElephantROSE",
+      "score": 1772699,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 12,
+      "name": "Souney",
+      "score": 1772191,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 13,
+      "name": "Progglers",
+      "score": 1758643,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 14,
+      "name": "Gyoza",
+      "score": 1740220,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 15,
+      "name": "GTAV",
+      "score": 1667360,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 16,
+      "name": "Mashbart",
+      "score": 1662085,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 17,
+      "name": "TeamX",
+      "score": 1632284,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 18,
+      "name": "#enseirbEnorme",
+      "score": 1609520,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 19,
+      "name": "Banane ",
+      "score": 1571686,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 20,
+      "name": "TianShi",
+      "score": 1562525,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 21,
+      "name": "Dler2Pr0n",
+      "score": 1550307,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 22,
+      "name": "Duplex",
+      "score": 1482778,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 23,
+      "name": "Les chevaliers de l'établi rond",
+      "score": 1480800,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 24,
+      "name": "Generalized Algebraic Data Tribe",
+      "score": 1467811,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 25,
+      "name": "Yoshteam",
+      "score": 1463959,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 26,
+      "name": "Atchoum",
+      "score": 1461829,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 27,
+      "name": "OKaml",
+      "score": 1456969,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 28,
+      "name": "buzzcoders",
+      "score": 1440818,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 29,
+      "name": "Chocolateam",
+      "score": 1434597,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 30,
+      "name": "Xcoder ",
+      "score": 1418902,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 31,
+      "name": "ATC2",
+      "score": 1406907,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 32,
+      "name": "Team Rocket",
+      "score": 1390147,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 33,
+      "name": "coredumped ",
+      "score": 1389821,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 34,
+      "name": "noobTeam",
+      "score": 1356152,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 35,
+      "name": "LSE ",
+      "score": 1348154,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 36,
+      "name": "NoException",
+      "score": 1328091,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 37,
+      "name": "BadHash",
+      "score": 1315027,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 38,
+      "name": "Rhodes ",
+      "score": 1314258,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 39,
+      "name": "M415K1CK1M3P1N6",
+      "score": 1288249,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 40,
+      "name": "MontyPython ",
+      "score": 1275107,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 41,
+      "name": "Danton ",
+      "score": 1258447,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 42,
+      "name": "ml_beam",
+      "score": 1241899,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 43,
+      "name": "Hashcats",
+      "score": 1204965,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 44,
+      "name": "Booyah ",
+      "score": 1200311,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 45,
+      "name": "Stat'isfaction",
+      "score": 1186582,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 46,
+      "name": "Turing Machine Operators",
+      "score": 1154776,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 47,
+      "name": "ENSTAckoverflow",
+      "score": 1112950,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 48,
+      "name": "easy ",
+      "score": 1074316,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 49,
+      "name": "Trotskteam",
+      "score": 924898,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 50,
+      "name": "MLDev",
+      "score": 864538,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 51,
+      "name": "rays of life",
+      "score": 843869,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 52,
+      "name": "VPlatoon",
+      "score": 481014,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 53,
+      "name": "Pimacs",
+      "score": 46839,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    },
+    {
+      "rank": 54,
+      "name": "Avatac",
+      "score": 1187,
+      "country": "",
+      "competitors_countries": [],
+      "tests_scores": []
+    }
+  ]
+}

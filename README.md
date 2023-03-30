@@ -1,3 +1,5 @@
+![google hashcode logo](logo.png)
+
 # Google Hashcode Archive
 
 Hash Code is a coding competition to solve problems modeled off real Google engineering challenges.
